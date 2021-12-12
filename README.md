@@ -9,6 +9,6 @@ The purpose of this project is to analyze temperuature data for the months of Ju
 By pulling weather data for the months of June and December, we were able to create a DataFrame from the list of temperatures for both months. For June, we capture **1700** unique dates within the month of June alone and discovered the average temperature is **74.95° F**. The maxiumum temperature is **85.00° F** and the minimum is **64.00° F** in Oahu:
 
 ![image](https://user-images.githubusercontent.com/89496798/145729529-862654b4-4d7b-49f6-b223-b330c270d08e.png)
-     ![image](https://user-images.githubusercontent.com/89496798/145729523-f45ca655-421e-4a4b-9668-53f86eca39ab.png)
+                           ![image](https://user-images.githubusercontent.com/89496798/145729523-f45ca655-421e-4a4b-9668-53f86eca39ab.png)
 
 
