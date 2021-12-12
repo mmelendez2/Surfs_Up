@@ -50,4 +50,11 @@ With maximum temperatures below 90 and minimum temperatures consistently above 5
 
 ![image](https://user-images.githubusercontent.com/89496798/145730143-40188d25-9c06-45ad-b55d-c8cf0073217c.png)
 
-With relatively low rainfall and and consistently warm temperature in Oahu, an investor can have confidence a surf and ice cream shop will perform well year round.
+With relatively low rainfall and and consistently warm temperature in Oahu, an investor can have confidence a surf and ice cream shop will perform well year round. If an investor would like to take a closer look at precipitation data for specific dates, they may do so if we provide them with the following link:
+
+![image](https://user-images.githubusercontent.com/89496798/145730781-54735c02-14eb-4607-b568-f5597c831d30.png)
+
+The data will display as follows:
+
+![image](https://user-images.githubusercontent.com/89496798/145730790-7b0430d6-ef34-468c-97a6-36d421fe29a6.png)
+
