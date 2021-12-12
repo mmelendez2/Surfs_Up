@@ -23,7 +23,7 @@ For December, we captured **1517** unique dates within the month of December and
 
 **List of Temperatures for December in Oahu**               
 
-![image](https://user-images.githubusercontent.com/89496798/145729608-b5293597-057b-469c-8658-5604ddef2fe3.png)
+![image](https://user-images.githubusercontent.com/89496798/145729659-b292c023-03e5-42f0-92c9-df27b01f5cd1.png)
 
 **Statistical Analysis for the Temperature in December**                  
 
