@@ -1,4 +1,4 @@
-# app route - C:\Users\melen\OneDrive\Documents\Bootcamp_Challenges\Module 9 - SQL Lite\Surfs_Up\app.py
+# app route - C:\Users\melen\OneDrive\Documents\Bootcamp_Challenges\Module 9 - SQLite\Surfs_Up\app.py
 import datetime as dt
 import numpy as np
 import pandas as pd
