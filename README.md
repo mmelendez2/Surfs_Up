@@ -38,3 +38,16 @@ For December, we captured the following in Oahu:
 **Statistical Analysis for the Temperature in December**                  
 
 ![image](https://user-images.githubusercontent.com/89496798/145729622-6acb4214-db76-461d-b135-2cff87e0e319.png)
+
+## Summary
+With maximum temperatures below 90 and minimum temperatures consistently above 55 degrees, our data analysis may suggest the highest performing months for a surf and ice cream business could possibly be in the summer time. One thing we should definitely take into account is the amount of precipitation in these months as well. We can simply do so by refactoring our code to pull precipitation data rather than temperature data for these same dates. In doing so, we can highlight the average precipitation along with the maximum precipitation for these months:
+
+### June Precipitation
+
+![image](https://user-images.githubusercontent.com/89496798/145730132-627ca25f-48d1-4704-b8ee-fa77d32c9bdb.png)
+
+### December Precipitation
+
+![image](https://user-images.githubusercontent.com/89496798/145730143-40188d25-9c06-45ad-b55d-c8cf0073217c.png)
+
+With relatively low rainfall and and consistently warm temperature in Oahu, an investor can have confidence a surf and ice cream shop will perform well year round.
