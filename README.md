@@ -10,15 +10,21 @@ The purpose of this project is to analyze temperuature data for the months of Ju
 ### June
 By pulling weather data for the months of June and December, we were able to create a DataFrame from the list of temperatures for both months. For June, we captured **1700** unique dates within the month of June alone and discovered the average temperature is **74.95° F**. The maxiumum temperature is **85.00° F** and the minimum is **64.00° F** in Oahu:
 
-**List of temperatures for June in Oahu**          
+**List of Temperatures for June in Oahu**          
 
-![image](https://user-images.githubusercontent.com/89496798/145729529-862654b4-4d7b-49f6-b223-b330c270d08e.png)
+![image](https://user-images.githubusercontent.com/89496798/145729642-8c69c61d-e8a6-4966-a233-867a6730244a.png)
 
-**Statistcal Analysis for the temperature in June**         
+**Statistcal Analysis for the Temperature in June**         
 
 ![image](https://user-images.githubusercontent.com/89496798/145729523-f45ca655-421e-4a4b-9668-53f86eca39ab.png)
 
-
-For June, we captured **1700** unique dates within the month of June alone and discovered the average temperature is **74.95° F**. The maxiumum temperature is **85.00° F** and the minimum is **64.00° F** in Oahu:
-
 ### December
+For December, we captured **1517** unique dates within the month of December and discovered the average temperature is **71.04° F**. The maxiumum temperature is **83.00° F** and the minimum is **56.00° F** in Oahu:
+
+**List of Temperatures for December in Oahu**               
+
+![image](https://user-images.githubusercontent.com/89496798/145729608-b5293597-057b-469c-8658-5604ddef2fe3.png)
+
+**Statistical Analysis for the Temperature in December**                  
+
+![image](https://user-images.githubusercontent.com/89496798/145729622-6acb4214-db76-461d-b135-2cff87e0e319.png)
